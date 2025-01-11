@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "Azamat",
+    "password": "1234shakh",
+    "age": "19",
+    "email": "Shazamat11@gmail.com",
+    "gender": "male"
+  },
+  {
+    "id": 2,
+    "username": "Shaxobiddin",
+    "password": "2112ok",
+    "email": "Shazamat1161@gmail.com"
+  }
+]
